@@ -1,0 +1,1 @@
+# logstash-input-kafka_lzma
